@@ -4,21 +4,21 @@
 This project demonstrates File Integrity Monitoring (FIM) using Wazuh. It allows monitoring of critical system files, detecting unauthorized changes, and generating real-time alerts.
 
 **Features**
-Monitor important files and directories for changes
-Detect unauthorized modifications
-Generate alerts in real time
-Visualize events on Wazuh dashboards
-Includes agent and server configuration examples
-Tech Stack
-Wazuh (Server & Agent)
-Linux / Windows systems
-JSON configuration files
+1. Monitor important files and directories for changes
+2. Detect unauthorized modifications
+3. Generate alerts in real time
+4. Visualize events on Wazuh dashboards
+5. Includes agent and server configuration examples
+6. Tech Stack
+7. Wazuh (Server & Agent)
+8. Linux / Windows systems
+9. JSON configuration files
 
 **Usage**
-Install Wazuh server and agents.
-Configure FIM rules in the Wazuh server.
-Add agents to monitor specific files and directories.
-Check the Wazuh dashboard for alerts and logs.
+1. Install Wazuh server and agents.
+2. Configure FIM rules in the Wazuh server.
+3. Add agents to monitor specific files and directories.
+4. Check the Wazuh dashboard for alerts and logs.
 
 **Purpose**
 
